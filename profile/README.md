@@ -1,4 +1,4 @@
-<img height="150" width="150" src="https://ibb.co/vsKSSnS" />
+<img height="150" width="150" src="https://i.imgur.com/LWa7F4g.png" />
 
 ## 👋 Hey there! We're Triffle.
 
