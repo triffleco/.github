@@ -8,5 +8,5 @@ Our goal is to build a home on the internet for you. So you never feel lost agai
 
 Check us out [**here!**](https://triffle.io)
 
-For updates and much more, follow us on [*Twitter*](https://twitter.com/triffleco) [*Discord*](https://discord.gg/NmKH6884).
+For updates and much more, follow us on [*Twitter &*](https://twitter.com/triffleco) [*Discord*](https://discord.gg/NmKH6884).
 
