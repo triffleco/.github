@@ -1,5 +1,3 @@
-<img height="150" width="150" src="https://i.imgur.com/LWa7F4g.png" />
-
 ## 👋 Hey there! We're Triffle.
 
 We are helping teenagers access and invest in Cryptocurrencies.
